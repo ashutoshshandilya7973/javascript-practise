@@ -1,0 +1,45 @@
+ .container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .red {
+             display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 400px;
+            height: 400px;
+            background-color: red;
+            border: 1px solid black;
+        }
+
+        .pink {
+             display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 85%;
+            height: 85%;
+            background-color: pink;
+            border: 1px solid black;
+        }
+
+        .blue {
+             display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 85%;
+            height: 85%;
+            background-color: blue;
+            border: 1px solid black;
+        }
+
+        .green {
+             display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 85%;
+            height: 85%;
+            background-color: green;
+            border: 1px solid black;
+        }
